@@ -6,4 +6,5 @@ Communication between boards via ESPNOW.
 ESP 1 - MIDI I/O: Arrange <br>
 ESP 2 - Display and Inputs <br>
 ESP 3 - MIDI I/O: TimeLine hidden features control: in sync looping, clock on/off etc. <br>
-ESP 4 - Web Server <br> //// no ESPNOW yet, just a test
+ESP 4 - Web Server <br> 
+no ESPNOW yet, it's just a test sketch of randomnerdtutorials, thanks
